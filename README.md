@@ -1,11 +1,11 @@
-<!-- WORLD//ZERO — profile by Wantedasa -->
+<!-- WANTEDASA — profile -->
 <div align="center">
 
 ![banner](banner.svg)
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=welcome+to+my+corner+of+the+grid;building+WORLD%2F%2FZERO+%E2%80%94+browser+MMORPG;shipping+pixels%2C+not+excuses;always+online+%F0%9F%9F%A2" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=620&lines=welcome+to+my+corner+of+the+grid;developer+%C2%B7+builder+%C2%B7+shipper;games+%26+tools+for+the+web;always+online+%F0%9F%9F%A2" alt="typing" />
 
 </div>
 
@@ -17,17 +17,16 @@
 
 ### 👾 whoami
 
-> **wantedasa** — dev, world-builder, pixel-pusher.
+> **wantedasa** — developer, builder, shipper.
 
-I'm building **WORLD//ZERO**, a browser-based MMORPG with a living,
-config-driven world (continents, cities, plots, districts, NPCs — all
-tunable live, no code edits). Currently solo-dev'ing the engine, the
-map renderer and the backend that keeps the world ticking.
+I build things for the web: games, tools, and small systems that
+people actually use. I like config-driven design, smooth real-time
+rendering and shipping working software over talking about it.
 
-- 🔭 **Currently:** WORLD//ZERO — canvas map, LOD system, live NPC spawns
-- 🌱 **Learning:** real-time rendering, netcode, game economy design
-- 💬 **Ask me about:** canvas / SVG, config-driven game worlds, browser games
-- ⚡ **Fun fact:** the whole world regenerates from one JSON file
+- 🔭 **Currently:** building web games & dev tooling
+- 🌱 **Learning:** real-time rendering, game engines, systems design
+- 💬 **Ask me about:** canvas / SVG, game dev, browser apps
+- ⚡ **Fun fact:** I'd rather regenerate the world from one config file than hardcode it
 
 </td>
 <td width="45%">
@@ -45,9 +44,9 @@ map renderer and the backend that keeps the world ticking.
 
 **focus**
 ```
-canvas maps · rAF animation
-config-driven worlds
-game backends · NPC systems
+web games · dev tools
+canvas / SVG · real-time UI
+config-driven systems
 ```
 
 </td>
@@ -69,6 +68,6 @@ game backends · NPC systems
 
 <div align="center">
 
-<sub>WORLD//ZERO — keep the server running 🟢</sub>
+<sub>keep building 🟢</sub>
 
 </div>

@@ -3,7 +3,7 @@
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#06080f"/>
       <stop offset="55%" stop-color="#0b1020"/>
-      <stop offset="100%" stop-color="#101a33"/>
+      <stop offset="100%" stop-color="#141a30"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#00ffd1"/>
@@ -29,20 +29,17 @@
     <animate attributeName="y" values="0;318;0" dur="6s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- WORLD//ZERO tag -->
-  <text x="60" y="120" font-size="22" letter-spacing="8" fill="#5f7290" filter="url(#glow)">WORLD//ZERO — BROWSER MMORPG</text>
+  <text x="60" y="120" font-size="22" letter-spacing="8" fill="#5f7290" filter="url(#glow)">DEVELOPER · BUILDER · SHIPPER</text>
 
-  <!-- main name -->
   <text x="55" y="215" font-size="92" font-weight="700" fill="url(#accent)" filter="url(#glow)">WANTEDASA</text>
 
   <rect x="60" y="240" width="220" height="3" fill="url(#accent)">
     <animate attributeName="width" values="160;260;160" dur="4s" repeatCount="indefinite"/>
   </rect>
-  <text x="60" y="275" font-size="18" fill="#9fb3d1">building worlds · shipping pixels · always online</text>
+  <text x="60" y="275" font-size="18" fill="#9fb3d1">games · tools · things for the web — always online</text>
 
-  <!-- pulsing dot -->
   <circle cx="930" cy="70" r="9" fill="#00ffd1" filter="url(#glow)">
     <animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/>
   </circle>
-  <text x="870" y="75" font-size="14" fill="#9fb3d1">LIVE</text>
+  <text x="878" y="75" font-size="14" fill="#9fb3d1">LIVE</text>
 </svg>
