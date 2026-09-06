@@ -36,7 +36,7 @@
   <rect x="60" y="240" width="220" height="3" fill="url(#accent)">
     <animate attributeName="width" values="160;260;160" dur="4s" repeatCount="indefinite"/>
   </rect>
-  <text x="60" y="275" font-size="18" fill="#9fb3d1">games · tools · things for the web — always online</text>
+  <text x="60" y="275" font-size="18" fill="#9fb3d1">writing code across the stack — always building</text>
 
   <circle cx="930" cy="70" r="9" fill="#00ffd1" filter="url(#glow)">
     <animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/>

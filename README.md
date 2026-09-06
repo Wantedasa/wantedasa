@@ -5,7 +5,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=620&lines=welcome+to+my+corner+of+the+grid;developer+%C2%B7+builder+%C2%B7+shipper;games+%26+tools+for+the+web;always+online+%F0%9F%9F%A2" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=620&lines=welcome+to+my+corner+of+the+grid;developer+%C2%B7+builder+%C2%B7+shipper;code+across+the+stack;always+building+%F0%9F%9F%A2" alt="typing" />
 
 </div>
 
@@ -17,16 +17,16 @@
 
 ### 👾 whoami
 
-> **wantedasa** — developer, builder, shipper.
+> **wantedasa** — developer.
 
-I build things for the web: games, tools, and small systems that
-people actually use. I like config-driven design, smooth real-time
-rendering and shipping working software over talking about it.
+I write code across the stack and build a bit of everything — web apps,
+discord bots, small tools and whatever comes up. I like config-driven
+design, clean structure and shipping things that actually work.
 
-- 🔭 **Currently:** building web games & dev tooling
-- 🌱 **Learning:** real-time rendering, game engines, systems design
-- 💬 **Ask me about:** canvas / SVG, game dev, browser apps
-- ⚡ **Fun fact:** I'd rather regenerate the world from one config file than hardcode it
+- 🔭 **Currently:** building things
+- 🌱 **Learning:** wherever the next project takes me
+- 💬 **Ask me about:** code, tooling, whatever I'm messing with
+- ⚡ **Fun fact:** I'd rather configure it from one file than hardcode it
 
 </td>
 <td width="45%">
@@ -35,18 +35,19 @@ rendering and shipping working software over talking about it.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br>
 
 **focus**
 ```
-web games · dev tools
-canvas / SVG · real-time UI
+general dev · web + discord
 config-driven systems
+whatever ships
 ```
 
 </td>
