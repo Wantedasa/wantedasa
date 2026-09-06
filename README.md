@@ -69,6 +69,21 @@ whatever ships
 
 <div align="center">
 
+### 🔗 connect
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DEIN_INVITE)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DEIN_HANDLE)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@DEIN_CHANNEL)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/DEIN_KANAL)
+[![Website](https://img.shields.io/badge/Website-00ffd1?style=for-the-badge&logo=githubpages&logoColor=black)](https://DEINE_WEBSITE.de)
+[![Email](https://img.shields.io/badge/Email-ddd?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deine@mail.de)
+
+</div>
+
+---
+
+<div align="center">
+
 <sub>keep building 🟢</sub>
 
 </div>
