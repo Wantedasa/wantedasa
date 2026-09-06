@@ -72,7 +72,7 @@ whatever ships
 ### 🔗 connect
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DEIN_INVITE)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DEIN_HANDLE)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wantedasa)
 [![Website](https://img.shields.io/badge/Website-00ffd1?style=for-the-badge&logo=githubpages&logoColor=black)](https://DEINE_WEBSITE.de)
 [![Email](https://img.shields.io/badge/Email-ddd?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deine@mail.de)
 
