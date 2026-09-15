@@ -72,8 +72,7 @@ whatever ships
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/soon)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wantedasa)
-[![Website](https://img.shields.io/badge/Website-00ffd1?style=for-the-badge&logo=githubpages&logoColor=black)](https://soon)
-[![Email](https://img.shields.io/badge/Email-ddd?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soon)
+[![Website](https://img.shields.io/badge/Website-00ffd1?style=for-the-badge&logo=githubpages&logoColor=black)](https://wantedasa.dev)
 
 </div>
 
