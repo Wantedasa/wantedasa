@@ -73,6 +73,7 @@ whatever ships
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/soon)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wantedasa)
 [![Website](https://img.shields.io/badge/Website-00ffd1?style=for-the-badge&logo=githubpages&logoColor=black)](https://wantedasa.dev)
+[![Powered by wantedasa.dev](https://wantedasa.dev/assets/widget-rect.svg)](https://wantedasa.dev)
 
 </div>
 
@@ -84,12 +85,3 @@ whatever ships
 
 </div>
 
----
-
-<div align="center">
-
-### 🌐 my site
-
-[![Powered by wantedasa.dev](https://wantedasa.dev/assets/widget-rect.svg)](https://wantedasa.dev)
-
-</div>
