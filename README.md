@@ -84,3 +84,13 @@ whatever ships
 <sub>keep building</sub>
 
 </div>
+
+---
+
+<div align="center">
+
+### 🌐 my site
+
+[![Powered by wantedasa.dev](https://wantedasa.dev/assets/widget-rect.svg)](https://wantedasa.dev)
+
+</div>
