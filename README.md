@@ -72,7 +72,7 @@ whatever ships
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.wantedasa.dev)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wantedasa)
-[![wantedasa.dev](https://wantedasa.dev\assets\widget-badge.svg)](https://wantedasa.dev)
+[![Powered by wantedasa.dev](https://wantedasa.dev/assets/widget-badge.svg)](https://wantedasa.dev)
 
 </div>
 
