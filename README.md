@@ -61,7 +61,7 @@ whatever ships
 
 | | project | what it is | link |
 |:--:|---|---|---|
-| ⛏️ | **Auto Clicker** | Minecraft 1.21.11 Fabric mod — auto clicker that keeps clicking while the game window is unfocused | [GitHub](https://github.com/Wantedasa/autoclicker) |
+| ⛏️ | **Auto Clicker** | Minecraft 1.21.11 Fabric mod — auto clicker that keeps clicking while the game window is unfocused | [GitHub](https://github.com/Wantedasa/minecraft-autoclicker) |
 | 🎒 | **AutoSort Inventory** | Minecraft Fabric mod — saves up to 3 inventory layouts and sorts your items back into their slots | [Modrinth](https://modrinth.com/project/udsLqBY5) |
 | 🤖 | **0840-Bot** | All-in-one Discord bot — pets, fishing, casino, economy, moderation | [Discord](https://wantedasa.dev/links) |
 | 🛠️ | **wantedasa.dev bot** | Discord hub bot that builds the whole server from config — roles, tickets, voice rooms, automod | [Discord](https://wantedasa.dev/links) |
