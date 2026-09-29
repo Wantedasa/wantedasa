@@ -57,6 +57,23 @@ whatever ships
 
 <div align="center">
 
+### 🚀 what's here
+
+| | project | what it is | link |
+|:--:|---|---|---|
+| ⛏️ | **Auto Clicker** | Minecraft 1.21.11 Fabric mod — auto clicker that keeps clicking while the game window is unfocused | [GitHub](https://github.com/Wantedasa/autoclicker) |
+| 🎒 | **AutoSort Inventory** | Minecraft Fabric mod — saves up to 3 inventory layouts and sorts your items back into their slots | [Modrinth](https://modrinth.com/project/udsLqBY5) |
+| 🤖 | **0840-Bot** | All-in-one Discord bot — pets, fishing, casino, economy, moderation | [Discord](https://wantedasa.dev/links) |
+| 🛠️ | **wantedasa.dev bot** | Discord hub bot that builds the whole server from config — roles, tickets, voice rooms, automod | [Discord](https://wantedasa.dev/links) |
+| 🧩 | **Widgets** | 15 dependency-free copy-paste widgets, each with a live preview and its own repo | [wantedasa.dev/code](https://wantedasa.dev/code) |
+| 🌐 | **wantedasa.dev** | Personal hub site — projects, links and the widget gallery | [visit](https://wantedasa.dev) |
+
+</div>
+
+---
+
+<div align="center">
+
 ### 📡 live on the grid
 
 ![Profile views](https://komarev.com/ghpvc/?username=Wantedasa&label=profile%20views&color=00ffd1&style=flat-square)
